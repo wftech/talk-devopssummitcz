@@ -197,7 +197,7 @@ What if I tell you, you can bring it up in about 15 minutes?
 
 # Thank You
 
-This presentation including demos is on github: github.com/wftech/presentation-devopssummitcz.
+This presentation including demos is on github: https://github.com/wftech/talk-devopssummitcz.
 
 I am available at the wf tech booth, if you want to know more.
 
